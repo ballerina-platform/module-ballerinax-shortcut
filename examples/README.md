@@ -2,13 +2,12 @@
 
 The `ballerinax/shortcut` connector provides practical examples illustrating usage in various scenarios.
 
-[//]: # (TODO: Add examples)
-1. 
-2. 
+1. [Iteration story planning](./iteration_story_planning/iteration_story_planning.md) - Create an iteration, add a story to it and set its estimate.
+2. [Epic progress report](./epic_progress_report/epic_progress_report.md) - Report story progress for every epic and search stories.
 
 ## Prerequisites
 
-[//]: # (TODO: Add prerequisites)
+Create a Shortcut API token and set it as `shortcutToken` in each example's `Config.toml`. See the example documents for the remaining configuration.
 
 ## Running an example
 
